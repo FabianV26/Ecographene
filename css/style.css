@@ -464,11 +464,11 @@ a {
 }
 
 .header-slide .image-slide .slider-content h1 {
-  font-size: 3.57vmin;
+  font-size: 4.57vmin;
   color: #fff;
   text-transform: uppercase;
   line-height: 7vmin;
-  margin: 0px 5% 10% 5%;
+  margin: 0px 5% 200px 5%;
 }
 
 .header-slide .image-slide .slider-content p {
@@ -570,8 +570,9 @@ header.title h2 {
 
 .dark strong,
 .dark h2 span{
-  color: #2187E7;
+  color: #43ad47;
 }
+
 
 .separator {
   padding: 0 !important;
@@ -748,7 +749,7 @@ span.quot-name:before {
 .percentage {
     height: 5px;
     margin: 2px 1px;
-    background: #2187e7;
+    background: #43ad47;
     position: absolute;
     box-shadow: 0px 0px 10px 1px rgba(0,198,255,0.4);
 }
@@ -801,7 +802,7 @@ span.quot-name:before {
 }
 
 #team .wrap h3 {
-  text-transform: uppercase;
+
   line-height: 24px;
   font-weight: 400;
   margin-bottom: 10px;
