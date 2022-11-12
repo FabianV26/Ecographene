@@ -343,7 +343,7 @@ a {
     padding: 8px 0 10px;
     color: #000;
     font-weight: 300;
-    font-size: 1.325em;
+    font-size: 1em;
     line-height: 1.2;
 }
 
@@ -464,11 +464,11 @@ a {
 }
 
 .header-slide .image-slide .slider-content h1 {
-  font-size: 5.57vmin;
+  font-size: 3.57vmin;
   color: #fff;
   text-transform: uppercase;
-  line-height: 70px;
-  margin: 0px 80px 200px 80px;
+  line-height: 7vmin;
+  margin: 0px 5% 10% 5%;
 }
 
 .header-slide .image-slide .slider-content p {
@@ -513,7 +513,7 @@ a {
 
 
 
-/*CONTENT TEMPLATE*/
+/*CONTENT */
 
 .container-fluid > section{
   padding-bottom: 60px;
