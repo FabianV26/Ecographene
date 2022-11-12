@@ -468,7 +468,7 @@ a {
   color: #fff;
   text-transform: uppercase;
   line-height: 7vmin;
-  margin: 67px 5% 200px 5%;
+  margin: 65px 5% 200px 5%;
 }
 
 .header-slide .image-slide .slider-content p {
@@ -511,7 +511,9 @@ a {
   margin-left: -50px;
   margin-bottom: 50px;
 }
-
+.shop_img-box img{
+  width: 100%;
+}
 
 
 /*CONTENT */
